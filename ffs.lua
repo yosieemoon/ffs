@@ -13,7 +13,7 @@ getgenv().AutoFishingCompleteDelay = 1.8
 getgenv().RandomThrowingForFishingEnabled = true
 getgenv().AutomationWeatherChoosed = {"Cloudy", "Wind", "Snow", "Storm", "Radiant"}
 getgenv().AutomationWeatherEnabled = true
-getgenv().SavedLocation = CFrame.new(-1539.3756103515625,2.874999761581421,1908.16357421875,-0.9902514219284058,-6.136473018614197e-08,-0.1392916887998581,-6.748469871808993e-08,1,3.921333657785908e-08,0.1392916887998581,4.823111865448482e-08,-0.9902514219284058)
+getgenv().SavedLocation = CFrame.new(6082.9853515625,-585.92431640625,4634.5654296875,-0.6184015274047852,-5.011849779634758e-08,0.7858623266220093,-2.1595784716055277e-08,1,4.678126330759369e-08,-0.7858623266220093,1.1958290357938495e-08,-0.6184015274047852)
 getgenv().AutomationFavoriteFishNameList = {"Sacred Guardian Squid", "Balloon Shrimp", "Cake Turtle", "Swirl Crab Cake", "King Swirl Pufferfish", "Cherry Spearfish"}
 getgenv().AutomationFavoriteFishEnabled = true
 getgenv().AutomationPotionEnabled = true
@@ -31,3 +31,4 @@ getgenv().HideFishCaughtNotification = true
 loadstring(game:HttpGet("https://paste.monster/lwDAcZvahN9G/raw/"))()
 
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/a8610f838de809840c5bdba17fc7047b.lua"))()
+
