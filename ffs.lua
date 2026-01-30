@@ -19,7 +19,7 @@ getgenv().AutomationFavoriteFishNameList = {"Sacred Guardian Squid", "Balloon Sh
 getgenv().AutomationFavoriteFishEnabled = true
 getgenv().AutomationPotionEnabled = true
 getgenv().AutomationPotionNameList = {"Luck I Potion", "Mutation I Potion", "Luck II Potion"}
-getgenv().EnableAutoFishing = true
+getgenv().EnableAutoFishingEnabled = true
 
 -- Misc Settings
 getgenv().BoostFPSEnabled = true
@@ -33,6 +33,7 @@ getgenv().HideFishCaughtNotification = true
 loadstring(game:HttpGet("https://paste.monster/lwDAcZvahN9G/raw/"))()
 
 loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/a8610f838de809840c5bdba17fc7047b.lua"))()
+
 
 
 
