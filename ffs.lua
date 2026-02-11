@@ -30,10 +30,10 @@ getgenv().HideOtherPlayers = true
 getgenv().HideFishCaughtNotification = true
 
 -- Load Script
--- script_key = "pEmMRevSnpCgsLSWyOUeqjkqlDwhddQv" -- change with your key
+-- script_key = "SdsCGTaPRMMpwUzVIWXSBpqJiTpOXzXT" -- change with your key
 loadstring(game:HttpGet("https://paste.monster/lwDAcZvahN9G/raw/"))()
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/MajestySkie/Chloe-X/main/Main/ChloeX"))()
+loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/6f65dc2f2b8c14aedda87fdcd2bfc493.lua"))()
 
 
 
