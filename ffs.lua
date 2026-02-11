@@ -33,7 +33,8 @@ getgenv().HideFishCaughtNotification = true
 -- script_key = "pEmMRevSnpCgsLSWyOUeqjkqlDwhddQv" -- change with your key
 loadstring(game:HttpGet("https://paste.monster/lwDAcZvahN9G/raw/"))()
 
-loadstring(game:HttpGet("https://api.luarmor.net/files/v3/loaders/a8610f838de809840c5bdba17fc7047b.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/MajestySkie/Chloe-X/main/Main/ChloeX"))()
+
 
 
 
